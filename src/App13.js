@@ -1,6 +1,6 @@
 import React from "react";
 import{setStudent, useState} from "react";
-export default function App6() {
+export default function App13() {
 const [student, setStudent] = useState({ name: "John", age: 34 });
 console.log(Date());
 return (

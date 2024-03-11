@@ -1,6 +1,6 @@
 import React from 'react';
 import {useState,useEffect} from "react";
-export default function App3(){
+export default function App9(){
 const[runs,setRuns]=useState(0);
 const[wickets,setWickets]=useState(0);
 //console.log("component loaded");
