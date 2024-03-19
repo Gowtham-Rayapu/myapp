@@ -1,11 +1,11 @@
 import React from 'react';
 import  ReactDOM  from 'react-dom/client';
-import App19 from './App19';
+import App29 from './App29';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App19/>
+    <App29/>
   </React.StrictMode>
 );
 
